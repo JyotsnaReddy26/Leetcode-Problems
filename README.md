@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1175-prime-arrangements) |
 ## Enumeration
 |  |
 | ------- |
