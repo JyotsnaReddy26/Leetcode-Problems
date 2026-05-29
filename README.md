@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 <!---LeetCode Topics End-->
