@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0867-transpose-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0706-design-hashmap) |
 ## Matrix
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 ## String Matching
 |  |
@@ -114,4 +117,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0706-design-hashmap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
