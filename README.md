@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
