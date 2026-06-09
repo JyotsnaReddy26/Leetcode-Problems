@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
+| [3689-maximum-total-subarray-value-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
