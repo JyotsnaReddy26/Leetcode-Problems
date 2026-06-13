@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1175-prime-arrangements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0867-transpose-matrix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [3894-traffic-signal-color](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
