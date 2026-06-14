@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [1266-minimum-time-visiting-all-points](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1929-concatenation-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1175-prime-arrangements) |
+| [1266-minimum-time-visiting-all-points](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
