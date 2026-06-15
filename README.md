@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [1903-largest-odd-number-in-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2413-smallest-even-multiple](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## String
