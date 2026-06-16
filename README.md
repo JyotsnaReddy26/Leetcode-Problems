@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
 ## Enumeration
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3334-find-the-maximum-factor-score-of-array) |
 ## String
 |  |
 | ------- |
