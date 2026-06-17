@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0705-design-hashset](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0706-design-hashmap) |
+| [0804-unique-morse-code-words](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [1903-largest-odd-number-in-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3838-weighted-word-mapping](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 ## Matrix
 |  |
 | ------- |
