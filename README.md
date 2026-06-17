@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [1903-largest-odd-number-in-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3110-score-of-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
