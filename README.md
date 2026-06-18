@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0506-relative-ranks) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 ## String Matching
 |  |
