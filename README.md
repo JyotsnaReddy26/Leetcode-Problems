@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2788-split-strings-by-separator](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2788-split-strings-by-separator) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
+| [2788-split-strings-by-separator](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2788-split-strings-by-separator) |
 | [3110-score-of-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
