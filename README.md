@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1903-largest-odd-number-in-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3110-score-of-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3794-reverse-string-prefix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
