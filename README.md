@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1280-students-and-examinations) |
+| [1484-group-sold-products-by-the-date](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1484-group-sold-products-by-the-date) |
 ## Queue
 |  |
 | ------- |
