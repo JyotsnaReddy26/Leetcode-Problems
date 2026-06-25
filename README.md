@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3794-reverse-string-prefix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0506-relative-ranks) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Database
 |  |
 | ------- |
