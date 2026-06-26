@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0706-design-hashmap) |
 ## Design
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
