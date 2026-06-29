@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2788-split-strings-by-separator](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2788-split-strings-by-separator) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
