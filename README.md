@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2788-split-strings-by-separator](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2788-split-strings-by-separator) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3334-find-the-maximum-factor-score-of-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Database
 |  |
 | ------- |
