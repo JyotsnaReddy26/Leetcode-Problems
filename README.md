@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
