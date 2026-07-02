@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3833-count-dominant-indices](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
+| [3833-count-dominant-indices](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3833-count-dominant-indices) |
 ## Number Theory
 |  |
 | ------- |
