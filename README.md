@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
