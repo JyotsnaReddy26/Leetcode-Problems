@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3833-count-dominant-indices](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3833-count-dominant-indices](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3833-count-dominant-indices) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Number Theory
 |  |
 | ------- |
