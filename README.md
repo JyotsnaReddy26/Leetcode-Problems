@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2788-split-strings-by-separator](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2788-split-strings-by-separator) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2788-split-strings-by-separator](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2788-split-strings-by-separator) |
 | [3110-score-of-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3663-find-the-least-frequent-digit](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2364-count-number-of-bad-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 ## Binary Search
 |  |
 | ------- |
