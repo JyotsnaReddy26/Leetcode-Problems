@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0908-smallest-range-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0908-smallest-range-i) |
 | [1175-prime-arrangements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1175-prime-arrangements) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0942-di-string-match](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0942-di-string-match) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0242-valid-anagram) |
