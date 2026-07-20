@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0908-smallest-range-i) |
 | [0942-di-string-match](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0942-di-string-match) |
+| [1260-shift-2d-grid](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -238,11 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0867-transpose-matrix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
