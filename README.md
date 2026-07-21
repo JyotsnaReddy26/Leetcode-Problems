@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0048-rotate-image) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
