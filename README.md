@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3833-count-dominant-indices](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
