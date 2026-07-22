@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2413-smallest-even-multiple](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2843-count-symmetric-integers](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
