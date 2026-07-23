@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0169-majority-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
