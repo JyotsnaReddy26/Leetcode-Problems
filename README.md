@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1399-count-largest-group) |
 | [1492-the-kth-factor-of-n](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
