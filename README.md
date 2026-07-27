@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1534-count-good-triplets) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
