@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
