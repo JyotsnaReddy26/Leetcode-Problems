@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0912-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 ## Binary Search
