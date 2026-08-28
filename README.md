@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2788-split-strings-by-separator](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2788-split-strings-by-separator) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
+| [2733-neither-minimum-nor-maximum](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3731-find-missing-elements) |
