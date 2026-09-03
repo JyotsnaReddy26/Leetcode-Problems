@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-count-dominant-indices](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Math
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3908-valid-digit-number) |
 ## Enumeration
