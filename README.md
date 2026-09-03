@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2364-count-number-of-bad-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2364-count-number-of-bad-pairs) |
+| [2404-most-frequent-even-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2103-rings-and-rods) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2364-count-number-of-bad-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2364-count-number-of-bad-pairs) |
+| [2404-most-frequent-even-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2364-count-number-of-bad-pairs](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2364-count-number-of-bad-pairs) |
+| [2404-most-frequent-even-element](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/JyotsnaReddy26/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
